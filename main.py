@@ -1,4 +1,4 @@
-iimport requests
+import requests
 import json
 import folium
 from folium import plugins
